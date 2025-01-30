@@ -39,5 +39,24 @@
             }
         });
     </script>
+        <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var appDiv = document.getElementById("app");
+
+            if (appDiv) {
+                // Simulate a user interaction
+                var event = new Event("click");
+                appDiv.dispatchEvent(event);
+
+                // Attempt to play an audio element
+                var audio = document.createElement("audio");
+                audio.src = "data:audio/wav;base64,UklGRh4AAABXQVZFZm10IBAAAAABAAEARKwAABCxAgAEABAAZGF0YQAAAAA="; // Silent audio
+                audio.play().catch(error => console.log("Autoplay blocked:", error));
+
+                console.log("Autoplay attempt triggered.");
+            }
+        });
+    </script>
+
   </body>
 </html>
