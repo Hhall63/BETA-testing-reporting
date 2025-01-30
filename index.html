@@ -1,44 +1,66 @@
-        <script>
-        // Prevent duplicate script execution
-        if (!window.CaptivateScriptsLoaded) {
-            window.CaptivateScriptsLoaded = true;
-            
-            document.addEventListener("DOMContentLoaded", function() {
-                var appDiv = document.getElementById("app");
+       <html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=1"
+    />
+    <title></title>
+  </head>
+  <body>
+    <div id="app" style="width: 100%; height: 100%"></div>
 
-                if (appDiv) {
-                    // Simulate a user interaction to enable autoplay
-                    var event = new Event("click");
-                    appDiv.dispatchEvent(event);
-                    console.log("Autoplay attempt triggered.");
-                }
+    <!-- 🔹 Stronger Autoplay Fix for GitHub Hosting -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var appDiv = document.getElementById("app");
 
-                // Attempt to enable autoplay for media elements
-                var audio = document.createElement("audio");
-                audio.src = "data:audio/wav;base64,UklGRh4AAABXQVZFZm10IBAAAAABAAEARKwAABCxAgAEABAAZGF0YQAAAAA="; // Silent audio
-                var playPromise = audio.play();
+            if (appDiv) {
+                // Simulate a user interaction to enable autoplay
+                var event = new Event("click");
+                appDiv.dispatchEvent(event);
+                console.log("Autoplay attempt triggered.");
+            }
 
-                if (playPromise !== undefined) {
-                    playPromise
-                        .then(() => console.log("Autoplay allowed."))
-                        .catch(() => console.log("Autoplay blocked by browser."));
-                }
-            });
+            // Attempt to enable autoplay for media elements
+            var audio = document.createElement("audio");
+            audio.src = "data:audio/wav;base64,UklGRh4AAABXQVZFZm10IBAAAAABAAEARKwAABCxAgAEABAAZGF0YQAAAAA="; // Silent audio
+            var playPromise = audio.play();
 
-            // Load Captivate Scripts Only Once
-            [
+            if (playPromise !== undefined) {
+                playPromise
+                    .then(() => console.log("Autoplay allowed."))
+                    .catch(() => console.log("Autoplay blocked by browser."));
+            }
+        });
+    </script>
+
+    <!-- 🔹 Ensure Captivate Scripts Load Only After Page is Fully Loaded -->
+    <script>
+        window.onload = function() {
+            console.log("Page fully loaded. Loading Captivate scripts...");
+
+            let scriptsToLoad = [
                 "assets/js/project.js",
                 "dist/main.chunk.js",
                 "dist/runtime-main.bundle.js",
-                "dist/vendors-main.chunk.js",
-            ].forEach((src) => {
+                "dist/vendors-main.chunk.js"
+            ];
+
+            scriptsToLoad.forEach((src) => {
                 let script = document.createElement("script");
                 script.src = src;
                 script.charset = "utf-8";
                 script.async = false;
-                document.body.appendChild(script);
+
+                if (document.body) {
+                    document.body.appendChild(script);
+                    console.log(`Loaded script: ${src}`);
+                } else {
+                    console.error(`Failed to load script: ${src} (document.body is null)`);
+                }
             });
-        } else {
-            console.log("Captivate scripts already loaded. Skipping duplicate execution.");
-        }
+        };
     </script>
+  </body>
+</html>
