@@ -15,12 +15,27 @@
     <script src='dist/runtime-main.bundle.js' charset="utf-8"></script>
     <script src='dist/vendors-main.chunk.js' charset="utf-8"></script>
 
-    <!-- 🔹 Autoplay Fix for GitHub Hosting -->
+    <!-- 🔹 Stronger Autoplay Fix for GitHub Hosting -->
     <script>
         document.addEventListener("DOMContentLoaded", function() {
-            var iframe = document.querySelector("iframe");
-            if (iframe) {
-                iframe.setAttribute("allow", "autoplay");
+            var appDiv = document.getElementById("app");
+
+            if (appDiv) {
+                // Simulate a user interaction to enable autoplay
+                var event = new Event("click");
+                appDiv.dispatchEvent(event);
+                console.log("Autoplay attempt triggered.");
+            }
+
+            // Attempt to enable autoplay for media elements
+            var audio = document.createElement("audio");
+            audio.src = "data:audio/wav;base64,UklGRh4AAABXQVZFZm10IBAAAAABAAEARKwAABCxAgAEABAAZGF0YQAAAAA="; // Silent audio
+            var playPromise = audio.play();
+
+            if (playPromise !== undefined) {
+                playPromise
+                    .then(() => console.log("Autoplay allowed."))
+                    .catch(() => console.log("Autoplay blocked by browser."));
             }
         });
     </script>
