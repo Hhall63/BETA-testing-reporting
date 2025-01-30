@@ -8840,8 +8840,8 @@ vb:[-2,-2,-1,-1]
 Slide536:{
 lb:'Blank 1',
 id:536,
-from:2272,
-to:2361,
+from:2452,
+to:2541,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -8913,7 +8913,7 @@ se:false
 }
 ,
 sea:'{"scripts":[{"then":[["cp.runJavascript(\\"dmFyIHN0b3JlZENvTmFtZSA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCJjYXB0aXZhdGVfQ29OYW1lIik7CnZhciBzdG9yZWRFbWFpbCA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCJjYXB0aXZhdGVfRW1haWwiKTsKdmFyIHN0b3JlZEZGMSA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCJjYXB0aXZhdGVfRkYxIik7CnZhciBzdG9yZWRGRjIgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgiY2FwdGl2YXRlX0ZGMiIpOwp2YXIgc3RvcmVkRkYzID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oImNhcHRpdmF0ZV9GRjMiKTsKdmFyIHN0b3JlZEZGNCA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCJjYXB0aXZhdGVfRkY0Iik7CgppZiAoc3RvcmVkQ29OYW1lKSB3aW5kb3cuY3BBUElJbnRlcmZhY2Uuc2V0VmFyaWFibGVWYWx1ZSgiSW5wdXRmaWVsZF8xIiwgc3RvcmVkQ29OYW1lKTsKaWYgKHN0b3JlZEVtYWlsKSB3aW5kb3cuY3BBUElJbnRlcmZhY2Uuc2V0VmFyaWFibGVWYWx1ZSgiQmxvY2tfSW5wdXRGaWVsZF82Iiwgc3RvcmVkRW1haWwpOwppZiAoc3RvcmVkRkYxKSB3aW5kb3cuY3BBUElJbnRlcmZhY2Uuc2V0VmFyaWFibGVWYWx1ZSgiQmxvY2tfSW5wdXRGaWVsZF8yIiwgc3RvcmVkRkYxKTsKaWYgKHN0b3JlZEZGMikgd2luZG93LmNwQVBJSW50ZXJmYWNlLnNldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfMyIsIHN0b3JlZEZGMik7CmlmIChzdG9yZWRGRjMpIHdpbmRvdy5jcEFQSUludGVyZmFjZS5zZXRWYXJpYWJsZVZhbHVlKCJCbG9ja19JbnB1dEZpZWxkXzQiLCBzdG9yZWRGRjMpOwppZiAoc3RvcmVkRkY0KSB3aW5kb3cuY3BBUElJbnRlcmZhY2Uuc2V0VmFyaWFibGVWYWx1ZSgiQmxvY2tfSW5wdXRGaWVsZF81Iiwgc3RvcmVkRkY0KTsK\\",\\"_self\\");"]]}]}',
-sxa:'{"scripts":[{"then":[["cp.runJavascript(\\"dmFyIGN1cnJlbnRTbGlkZSA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRDdXJyZW50U2xpZGVJbmRleCgpOwpsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgiY2FwdGl2YXRlTGFzdFNsaWRlIiwgY3VycmVudFNsaWRlKTsK\\",\\"_self\\");"]]}]}',
+sxa:'{"scripts":[{"then":[["cp.runJavascript(\\"dmFyIGN1cnJlbnRTbGlkZSA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRWYXJpYWJsZVZhbHVlKCJjcEluZm9DdXJyZW50U2xpZGUiKTsKbG9jYWxTdG9yYWdlLnNldEl0ZW0oImNhcHRpdmF0ZUxhc3RTbGlkZSIsIGN1cnJlbnRTbGlkZSk7CmNvbnNvbGUubG9nKCJNYW51YWxseSBzYXZpbmcgc2xpZGU6IiwgY3VycmVudFNsaWRlKTsKCg==\\",\\"_self\\");"]]}]}',
 bph:[]
 ,
 bookmarks:[]
@@ -9454,8 +9454,8 @@ vb:[-1,-1,2,2]
 Slide1724:{
 lb:'Blank 2',
 id:1724,
-from:181,
-to:1101,
+from:2542,
+to:3462,
 iols:0,
 i360qs:false,
 sdu:30.7,
@@ -9502,6 +9502,7 @@ iso:false,
 se:false
 }
 ,
+sea:'{"scripts":[{"then":[["cp.runJavascript(\\"dmFyIGN1cnJlbnRTbGlkZSA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRDdXJyZW50U2xpZGVJbmRleCgpOwpsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgiY2FwdGl2YXRlTGFzdFNsaWRlIiwgY3VycmVudFNsaWRlKTsKY29uc29sZS5sb2coIlNhdmluZyBzbGlkZSBvbiBTbGlkZSAzIGVudHJ5OiIsIGN1cnJlbnRTbGlkZSk7Cg==\\",\\"_self\\");"]]}]}',
 bph:[{
 ob:'{"scripts":[{"then":[["cp.jumpToNextSlide(1867);"]]}]}',
 bt:29.8
@@ -9519,6 +9520,11 @@ qs:'',
 iph:{
 1867:{
 ts:'{"effect":2,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}',
+tr:''
+}
+,
+3333:{
+ts:'',
 tr:''
 }
 
