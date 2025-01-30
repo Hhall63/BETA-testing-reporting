@@ -1,34 +1,44 @@
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=1"
-    />
-    <title></title>
-    
-    <script src="scormdriver.js" charset="utf-8"></script>
     <script>
-      USE_LEGACY_IDENTIFIERS_FOR_2004 = true;
-      REVIEW_MODE_IS_READ_ONLY = false;
-      window.onbeforeunload = () => window.Unload();
-      const LoadContent = function () {
-        [
-          "assets/js/project.js",
-          "dist/main.chunk.js",
-          "dist/runtime-main.bundle.js",
-          "dist/vendors-main.chunk.js",
-        ].forEach((src) => {
-          script = document.createElement("script");
-          script.src = src;
-          script.charset = "utf-8";
-          script.async = false;
-          document.body.appendChild(script);
-        });
-      };
+        // Prevent duplicate script execution
+        if (!window.CaptivateScriptsLoaded) {
+            window.CaptivateScriptsLoaded = true;
+            
+            document.addEventListener("DOMContentLoaded", function() {
+                var appDiv = document.getElementById("app");
+
+                if (appDiv) {
+                    // Simulate a user interaction to enable autoplay
+                    var event = new Event("click");
+                    appDiv.dispatchEvent(event);
+                    console.log("Autoplay attempt triggered.");
+                }
+
+                // Attempt to enable autoplay for media elements
+                var audio = document.createElement("audio");
+                audio.src = "data:audio/wav;base64,UklGRh4AAABXQVZFZm10IBAAAAABAAEARKwAABCxAgAEABAAZGF0YQAAAAA="; // Silent audio
+                var playPromise = audio.play();
+
+                if (playPromise !== undefined) {
+                    playPromise
+                        .then(() => console.log("Autoplay allowed."))
+                        .catch(() => console.log("Autoplay blocked by browser."));
+                }
+            });
+
+            // Load Captivate Scripts Only Once
+            [
+                "assets/js/project.js",
+                "dist/main.chunk.js",
+                "dist/runtime-main.bundle.js",
+                "dist/vendors-main.chunk.js",
+            ].forEach((src) => {
+                let script = document.createElement("script");
+                script.src = src;
+                script.charset = "utf-8";
+                script.async = false;
+                document.body.appendChild(script);
+            });
+        } else {
+            console.log("Captivate scripts already loaded. Skipping duplicate execution.");
+        }
     </script>
-  </head>
-  <body onload="Start()">
-    <div id="app" style="width: 100%; height: 100%"></div>
-  </body>
-</html>
