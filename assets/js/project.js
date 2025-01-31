@@ -8,8 +8,8 @@ atp:true
 si426:{
 name:'Image_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si426c',
@@ -175,8 +175,8 @@ vb:[-1,-1,1,1]
 si434:{
 name:'Image_Group_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si434c',
@@ -347,8 +347,8 @@ vb:[-1,-1,1,1]
 si445:{
 name:'default_image(2)',
 type:15,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si445c',
@@ -529,8 +529,8 @@ vb:[-1,-1,2733,1041]
 si457:{
 name:'Image_Group_Text_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si457c',
@@ -700,8 +700,8 @@ vb:[-1,-1,1,1]
 si465:{
 name:'Text_1',
 type:1250,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si465c',
@@ -853,8 +853,8 @@ vb:[-1,-1,2,2]
 si475:{
 name:'Text_2',
 type:1250,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si475c',
@@ -1006,8 +1006,8 @@ vb:[-1,-1,2,2]
 si2547:{
 name:'Block_Button_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2547c',
@@ -1173,8 +1173,8 @@ vb:[-1,-1,1,1]
 si2555:{
 name:'Block_Button_Group_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2555c',
@@ -1377,8 +1377,8 @@ vb:[-1,-1,1,1]
 si2563:{
 name:'Button_45',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2563c',
@@ -1533,8 +1533,8 @@ vb:[-2,-2,-1,-1]
 si2579:{
 name:'Button_46',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2579c',
@@ -1688,8 +1688,8 @@ vb:[-2,-2,-1,-1]
 si2595:{
 name:'Button_47',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2595c',
@@ -1843,8 +1843,8 @@ vb:[-2,-2,-1,-1]
 si2611:{
 name:'Button_48',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2611c',
@@ -1998,8 +1998,8 @@ vb:[-2,-2,-1,-1]
 si2627:{
 name:'Button_49',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2627c',
@@ -2153,8 +2153,8 @@ vb:[-2,-2,-1,-1]
 si2643:{
 name:'Button_50',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2643c',
@@ -2308,8 +2308,8 @@ vb:[-2,-2,-1,-1]
 si2659:{
 name:'Button_51',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2659c',
@@ -2463,8 +2463,8 @@ vb:[-2,-2,-1,-1]
 si2675:{
 name:'Button_52',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2675c',
@@ -2618,8 +2618,8 @@ vb:[-2,-2,-1,-1]
 si2691:{
 name:'Button_53',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2691c',
@@ -2773,8 +2773,8 @@ vb:[-2,-2,-1,-1]
 si2707:{
 name:'Button_54',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2707c',
@@ -2928,8 +2928,8 @@ vb:[-2,-2,-1,-1]
 Slide408:{
 lb:'Introduction 1',
 id:408,
-from:1,
-to:90,
+from:1822,
+to:1911,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -20577,8 +20577,8 @@ visible:'1'
 si3389:{
 name:'Paragraph_3',
 type:1268,
-from:1372,
-to:1521,
+from:2662,
+to:2811,
 rp:0,
 rpa:0,
 mdi:'si3389c',
@@ -20744,8 +20744,8 @@ vb:[-1,-1,1,1]
 si3397:{
 name:'Paragraph_Group_3',
 type:1268,
-from:1372,
-to:1521,
+from:2662,
+to:2811,
 rp:0,
 rpa:0,
 mdi:'si3397c',
@@ -21077,8 +21077,8 @@ vb:[-1,-1,2,2]
 si3435:{
 name:'Button_75',
 type:29,
-from:1372,
-to:1521,
+from:2662,
+to:2811,
 rp:0,
 rpa:0,
 mdi:'si3435c',
@@ -21097,7 +21097,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"stateVisibility":{"normal":true,"selected":true,"disabled":false,"hover":true,"visited":false},"normal":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"6tbel","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#FFFFFF"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"desktop-fontSize:96"},{"offset":0,"length":11,"style":"textTransform:uppercase"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"fontFamily:Arial"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:16"}],"entityRanges":[],"data":{"presetId":"text-button-normal","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_normal","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shouldRender":true,"visited":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"2kjd0","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"fontFamily:Arial"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:16"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#FFFFFF"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"desktop-fontSize:96"},{"offset":0,"length":11,"style":"textTransform:uppercase"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"}],"entityRanges":[],"data":{"presetId":"text-button-visited","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_visited","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shapeData":{"type":"rect","attributes":{"rx":"20"}},"designOption":"DEFAULT_BUTTON_ITEM_OPTION","iconProps":{"srcPath":"0485.svg","size":"medium","position":0,"offset":0,"resourceID":485},"currentState":"normal","selected":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"4mon0","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:16"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#FFFFFF"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"desktop-fontSize:96"},{"offset":0,"length":11,"style":"textTransform:uppercase"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"fontFamily:Arial"}],"entityRanges":[],"data":{"presetId":"text-button-selected","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_selected","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"hover":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"ba580","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"fontFamily:Arial"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:16"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#FFFFFF"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"desktop-fontSize:96"},{"offset":0,"length":11,"style":"textTransform:uppercase"},{"offset":0,"length":11,"style":"borderBottomStyle:none"}],"entityRanges":[],"data":{"presetId":"text-button-hover","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_hover","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":true}},"disabled":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"bjmo7","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"tablet-fontSize:16"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#666666"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"desktop-fontSize:96"},{"offset":0,"length":11,"style":"textTransform:uppercase"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"fontFamily:Arial"},{"offset":0,"length":11,"style":"fontStyle:normal"}],"entityRanges":[],"data":{"presetId":"text-button-disabled","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_disabled","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}}}',
+widgetProps:'{"stateVisibility":{"normal":true,"selected":true,"disabled":false,"hover":true,"visited":false},"normal":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"6tbel","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"desktop-fontSize:36"},{"offset":0,"length":11,"style":"fontFamily:Arial"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:16"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#FFFFFF"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"textTransform:uppercase"}],"entityRanges":[],"data":{"presetId":"text-button-normal","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_normal","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shouldRender":true,"visited":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"2kjd0","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"textTransform:uppercase"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"desktop-fontSize:36"},{"offset":0,"length":11,"style":"fontFamily:Arial"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:16"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#FFFFFF"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"}],"entityRanges":[],"data":{"presetId":"text-button-visited","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_visited","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shapeData":{"type":"rect","attributes":{"rx":"20"}},"designOption":"DEFAULT_BUTTON_ITEM_OPTION","iconProps":{"srcPath":"0485.svg","size":"medium","position":0,"offset":0,"resourceID":485},"currentState":"normal","selected":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"4mon0","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"textTransform:uppercase"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"desktop-fontSize:36"},{"offset":0,"length":11,"style":"fontFamily:Arial"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:16"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#FFFFFF"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"}],"entityRanges":[],"data":{"presetId":"text-button-selected","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_selected","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"hover":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"ba580","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"},{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"textTransform:uppercase"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"desktop-fontSize:36"},{"offset":0,"length":11,"style":"fontFamily:Arial"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:16"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#FFFFFF"}],"entityRanges":[],"data":{"presetId":"text-button-hover","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_hover","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":true}},"disabled":{"padding":{"top":10,"right":10,"bottom":10,"left":10,"isDTMLinked":false,"mobile":{"top":10,"right":10,"bottom":10,"left":10},"tablet":{"top":10,"right":10,"bottom":10,"left":10}},"opacity":100,"textEnabled":true,"svgAppearenceProperties":{"iconEnabled":false,"fill":{"enabled":false,"color":"var(--color1)"},"stroke":{"enabled":false,"dasharray":0,"width":1,"linecap":2,"color":"var(--color5)"}},"editorState":{"blocks":[{"key":"bjmo7","text":"Exit Course","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":11,"style":"textDecoration:none"},{"offset":0,"length":11,"style":"textTransform:uppercase"},{"offset":0,"length":11,"style":"borderBottomStyle:none"},{"offset":0,"length":11,"style":"textShadowEnable:false"},{"offset":0,"length":11,"style":"hlnk:"},{"offset":0,"length":11,"style":"fontWeight:normal"},{"offset":0,"length":11,"style":"desktop-fontSize:36"},{"offset":0,"length":11,"style":"fontFamily:Arial"},{"offset":0,"length":11,"style":"fontStyle:normal"},{"offset":0,"length":11,"style":"tablet-fontSize:16"},{"offset":0,"length":11,"style":"hlnkt:wp"},{"offset":0,"length":11,"style":"textOutlineEnable:false"},{"offset":0,"length":11,"style":"opacity:1"},{"offset":0,"length":11,"style":"mobile-fontSize:16"},{"offset":0,"length":11,"style":"textShadowColor:ffffff00"},{"offset":0,"length":11,"style":"hlnke:true"},{"offset":0,"length":11,"style":"backgroundColor:unset"},{"offset":0,"length":11,"style":"letterSpacing:12%"},{"offset":0,"length":11,"style":"textShadowX:0px"},{"offset":0,"length":11,"style":"textShadowY:0px"},{"offset":0,"length":11,"style":"fontStretch:normal"},{"offset":0,"length":11,"style":"fontType:regular"},{"offset":0,"length":11,"style":"WebkitTextStrokeColor:unset"},{"offset":0,"length":11,"style":"color:#666666"},{"offset":0,"length":11,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":11,"style":"WebkitTextStrokeWidth:unset"},{"offset":0,"length":11,"style":"lineHeight:125%"},{"offset":0,"length":11,"style":"textShadowBlur:0px"},{"offset":0,"length":11,"style":"textHighlightEnable:false"},{"offset":0,"length":11,"style":"overridden:true"}],"entityRanges":[],"data":{"presetId":"text-button-disabled","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true","textAlign":"center"}}],"entityMap":{}},"shapePresetData":{"presetId":"button_shape_1_disabled","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}}}',
 parentGroup:'si3397',
 retainState:false,
 immo:false,
@@ -21106,7 +21106,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.runJavascript(\\"dmFyIG9mZmljZXJOYW1lID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIklucHV0ZmllbGRfMSIpOwp2YXIgb2ZmaWNlckVtYWlsID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfNiIpOwp2YXIgZmlyZWZpZ2h0ZXIxID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfMiIpOwp2YXIgZmlyZWZpZ2h0ZXIyID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfMyIpOwp2YXIgZmlyZWZpZ2h0ZXIzID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfNCIpOwp2YXIgZmlyZWZpZ2h0ZXI0ID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfNSIpOwp2YXIgcXVpelNjb3JlID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoImNwUXVpekluZm9Qb2ludFNjb3JlIik7CnZhciB1bmlxdWVJRCA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCJjYXB0aXZhdGVVRUkiKTsKCnZhciBnb29nbGVTaGVldFVSTCA9ICJodHRwczovL3NjcmlwdC5nb29nbGUuY29tL21hY3Jvcy9zL1lPVVJfR09PR0xFX1NDUklQVF9JRC9leGVjIjsKCnZhciBkYXRhID0gewogICAgb2ZmaWNlck5hbWU6IG9mZmljZXJOYW1lLAogICAgb2ZmaWNlckVtYWlsOiBvZmZpY2VyRW1haWwsCiAgICBmaXJlZmlnaHRlcjE6IGZpcmVmaWdodGVyMSwKICAgIGZpcmVmaWdodGVyMjogZmlyZWZpZ2h0ZXIyLAogICAgZmlyZWZpZ2h0ZXIzOiBmaXJlZmlnaHRlcjMsCiAgICBmaXJlZmlnaHRlcjQ6IGZpcmVmaWdodGVyNCwKICAgIFVFSTogdW5pcXVlSUQsCiAgICBxdWl6U2NvcmU6IHF1aXpTY29yZQp9OwoKZmV0Y2goZ29vZ2xlU2hlZXRVUkwsIHsKICAgIG1ldGhvZDogIlBPU1QiLAogICAgbW9kZTogIm5vLWNvcnMiLAogICAgaGVhZGVyczogeyAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkYXRhKQp9KTsK\\",\\"_self\\");"],["cp.exit()"]]}]}',
+oca:'{"scripts":[{"then":[["cp.runJavascript(\\"Y29uc29sZS5sb2coIkV4aXQgYnV0dG9uIGNsaWNrZWQgLSBDb2xsZWN0aW5nIGRhdGEuLi4iKTsKCnZhciBvZmZpY2VyTmFtZSA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRWYXJpYWJsZVZhbHVlKCJJbnB1dGZpZWxkXzEiKTsKdmFyIG9mZmljZXJFbWFpbCA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRWYXJpYWJsZVZhbHVlKCJCbG9ja19JbnB1dEZpZWxkXzYiKTsKdmFyIGZpcmVmaWdodGVyMSA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRWYXJpYWJsZVZhbHVlKCJCbG9ja19JbnB1dEZpZWxkXzIiKTsKdmFyIGZpcmVmaWdodGVyMiA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRWYXJpYWJsZVZhbHVlKCJCbG9ja19JbnB1dEZpZWxkXzMiKTsKdmFyIGZpcmVmaWdodGVyMyA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRWYXJpYWJsZVZhbHVlKCJCbG9ja19JbnB1dEZpZWxkXzQiKTsKdmFyIGZpcmVmaWdodGVyNCA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRWYXJpYWJsZVZhbHVlKCJCbG9ja19JbnB1dEZpZWxkXzUiKTsKdmFyIHF1aXpTY29yZSA9IHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRWYXJpYWJsZVZhbHVlKCJjcFF1aXpJbmZvUG9pbnRTY29yZSIpOwp2YXIgdW5pcXVlSUQgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgiY2FwdGl2YXRlVUVJIik7Cgp2YXIgZGF0YSA9IHsKICBvZmZpY2VyTmFtZTogb2ZmaWNlck5hbWUsCiAgb2ZmaWNlckVtYWlsOiBvZmZpY2VyRW1haWwsCiAgZmlyZWZpZ2h0ZXIxOiBmaXJlZmlnaHRlcjEsCiAgZmlyZWZpZ2h0ZXIyOiBmaXJlZmlnaHRlcjIsCiAgZmlyZWZpZ2h0ZXIzOiBmaXJlZmlnaHRlcjMsCiAgZmlyZWZpZ2h0ZXI0OiBmaXJlZmlnaHRlcjQsCiAgVUVJOiB1bmlxdWVJRCwKICBxdWl6U2NvcmU6IHF1aXpTY29yZQp9OwoKdmFyIGdvb2dsZVNoZWV0VVJMID0gImh0dHBzOi8vc2NyaXB0Lmdvb2dsZS5jb20vbWFjcm9zL3MvQUtmeWNieVdkWm9ZeW5HQU03eHBfdDBFdkxHbW90RzQyWE1NcEViaHZWVEpQRHlLUHlKQ2h3MmprY3FBcEM2R09xcGwyeGxUdFEvZXhlYyI7CgpmZXRjaChnb29nbGVTaGVldFVSTCwgewogIG1ldGhvZDogIlBPU1QiLAogIGhlYWRlcnM6IHsKICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIKICB9LAogIGJvZHk6IEpTT04uc3RyaW5naWZ5KGRhdGEpCn0pCi50aGVuKHJlcyA9PiByZXMuanNvbigpKQoudGhlbihyZXN1bHQgPT4gY29uc29sZS5sb2coIlNlcnZlciBSZXNwb25zZToiLCByZXN1bHQpKQouY2F0Y2goZXJyID0+IGNvbnNvbGUuZXJyb3IoIkVycm9yOiIsIGVycikpOwo=\\",\\"_self\\");"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -21221,8 +21221,8 @@ ipiv:1
 ,
 sr:cp.fd,
 dn:'si3435',
-visible:1,
-effectiveVi:1,
+visible:0,
+effectiveVi:0,
 JSONEffectData:false,
 bp:10,
 btha:1,
@@ -21543,8 +21543,8 @@ vb:[-2,-2,-1,-1]
 Slide3367:{
 lb:'Title and text 1',
 id:3367,
-from:1372,
-to:1521,
+from:2662,
+to:2811,
 iols:0,
 i360qs:false,
 sdu:5,
@@ -21591,7 +21591,6 @@ iso:false,
 se:false
 }
 ,
-sea:'{"scripts":[{"then":[["cp.runJavascript(\\"dmFyIGQgPSBuZXcgRGF0ZSgpOwp2YXIgdGltZXN0YW1wID0gZC5nZXRUaW1lKCk7CnZhciByYW5kb21OdW0gPSBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAxMDAwMDApOwp2YXIgdW5pcXVlSUQgPSAiRkQiICsgdGltZXN0YW1wICsgcmFuZG9tTnVtOwoKd2luZG93LmNwQVBJSW50ZXJmYWNlLnNldFZhcmlhYmxlVmFsdWUoIlVFSSIsIHVuaXF1ZUlEKTsKbG9jYWxTdG9yYWdlLnNldEl0ZW0oImNhcHRpdmF0ZVVFSSIsIHVuaXF1ZUlEKTsK\\",\\"_self\\");"]]}]}',
 bph:[{
 ob:'{"scripts":[{"then":[["cp.show([\\"si3435\\"],3508);"]]}]}',
 bt:4.9
@@ -21607,20 +21606,15 @@ iid:[3485,3497]
 ,
 qs:'',
 iph:{
-3535:{
-ts:''
-}
-,
 3515:{
 ts:''
 }
 ,
-3508:{
-ts:'',
-tr:''
+3548:{
+ts:''
 }
 ,
-3528:{
+3508:{
 ts:'',
 tr:''
 }
@@ -22324,7 +22318,7 @@ pprtd:false,
 peon:false,
 fadeInAtStart:0,
 fadeOutAtEnd:0,
-endAction:'cp.runJavascript("","_self");'
+endAction:'cp.runJavascript("dmFyIG9mZmljZXJOYW1lID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIklucHV0ZmllbGRfMSIpOwp2YXIgb2ZmaWNlckVtYWlsID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfNiIpOwp2YXIgZmlyZWZpZ2h0ZXIxID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfMiIpOwp2YXIgZmlyZWZpZ2h0ZXIyID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfMyIpOwp2YXIgZmlyZWZpZ2h0ZXIzID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfNCIpOwp2YXIgZmlyZWZpZ2h0ZXI0ID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoIkJsb2NrX0lucHV0RmllbGRfNSIpOwp2YXIgcXVpelNjb3JlID0gd2luZG93LmNwQVBJSW50ZXJmYWNlLmdldFZhcmlhYmxlVmFsdWUoImNwUXVpekluZm9Qb2ludFNjb3JlIik7CnZhciB1bmlxdWVJRCA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCJjYXB0aXZhdGVVRUkiKTsKCnZhciBnb29nbGVTaGVldFVSTCA9ICJodHRwczovL3NjcmlwdC5nb29nbGUuY29tL21hY3Jvcy9zL0FLZnljYnpxUG1FWnBqYzJjeGhrMmkxUGx5V3N3akFOeEJudWRjcmUtbC1UTXpnMHBlYTFwT0FINTVxV3dVTm1PQ0FCUU1LV2ZBL2V4ZWMiOwoKdmFyIGRhdGEgPSB7CiAgICBvZmZpY2VyTmFtZTogb2ZmaWNlck5hbWUsCiAgICBvZmZpY2VyRW1haWw6IG9mZmljZXJFbWFpbCwKICAgIGZpcmVmaWdodGVyMTogZmlyZWZpZ2h0ZXIxLAogICAgZmlyZWZpZ2h0ZXIyOiBmaXJlZmlnaHRlcjIsCiAgICBmaXJlZmlnaHRlcjM6IGZpcmVmaWdodGVyMywKICAgIGZpcmVmaWdodGVyNDogZmlyZWZpZ2h0ZXI0LAogICAgVUVJOiB1bmlxdWVJRCwKICAgIHF1aXpTY29yZTogcXVpelNjb3JlCn07CgpmZXRjaChnb29nbGVTaGVldFVSTCwgewogICAgbWV0aG9kOiAiUE9TVCIsCiAgICBtb2RlOiAibm8tY29ycyIsCiAgICBoZWFkZXJzOiB7ICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIgfSwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGRhdGEpCn0pOwo=","_self");'
 },
 borderProperties:{
 hasBorder:false

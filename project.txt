@@ -76,6 +76,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -89,6 +101,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -2790,9 +2814,9 @@
 
 },
 {
-"id":"Beta Testing Reporting version 10",
+"id":"Beta Testing Reporting version 11",
 "class":"project",
-"title":"Beta Testing Reporting version 10",
+"title":"Beta Testing Reporting version 11",
 "children":["Slide408","Slide536","Slide1724","Slide1963","Slide1475","Slide3367"],
 "roles":{
 "quiz":{
